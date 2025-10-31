@@ -1,4 +1,4 @@
-```markdown
+
 # ComputeLendingFHE: Empowering Decentralized Peer-to-Peer Lending of Computational Resources
 
 ComputeLendingFHE is a revolutionary DeFi protocol designed for FHE-encrypted, peer-to-peer lending of computational resources. At its core, this platform leverages **Zama's Fully Homomorphic Encryption (FHE) technology**, enabling users to securely lend and borrow computational power without sacrificing privacy or trust.
